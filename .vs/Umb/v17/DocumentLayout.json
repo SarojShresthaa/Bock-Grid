@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\calltoactionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\calltoactionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\areas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\areas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\twocolumnsectionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\twocolumnsectionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blocklist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blocklist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\area.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\area.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\richtextblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\richtextblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\onecolumnsectionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\onecolumnsectionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\inspirationblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\inspirationblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\imageblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\imageblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\heroblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\heroblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\partials\\blockgrid\\components\\cardblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\partials\\blockgrid\\components\\cardblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\myproject\\views\\blockgrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07F01D8A-324E-4254-AAFA-61AF6C765AC1}|MyProject\\MyProject.csproj|solutionrelative:myproject\\views\\blockgrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Program.cs",
+              "RelativeToolTip": "MyProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:38:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "default.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blocklist\\default.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blocklist\\default.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blocklist\\default.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blocklist\\default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:33:11.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "areas.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "area.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\area.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\area.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\area.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\area.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:22.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "twoColumnSectionBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\twoColumnSectionBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\twoColumnSectionBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\twoColumnSectionBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\twoColumnSectionBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "richTextBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:18.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "oneColumnSectionBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:15.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "inspirationBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:13.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "imageBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:11.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "callToActionBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:05.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyProject.csproj",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\MyProject.csproj",
+              "RelativeDocumentMoniker": "MyProject\\MyProject.csproj",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\MyProject.csproj",
+              "RelativeToolTip": "MyProject\\MyProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T03:35:57.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "heroBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:08.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cardBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:32:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Layout.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\Layout.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T17:17:30.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T17:17:27.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlockGrid.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\BlockGrid.cshtml",
+              "RelativeDocumentMoniker": "MyProject\\Views\\BlockGrid.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\MyProject\\Views\\BlockGrid.cshtml",
+              "RelativeToolTip": "MyProject\\Views\\BlockGrid.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T17:12:09.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

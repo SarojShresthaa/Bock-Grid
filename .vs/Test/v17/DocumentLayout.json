@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\calltoactionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\calltoactionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\cardblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\cardblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\headlineblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\headlineblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\heroblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\heroblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\imageblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\imageblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\inspirationblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\inspirationblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\onecolumnsectionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\onecolumnsectionblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\richtextblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\richtextblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\components\\twocolumnlayoutblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\components\\twocolumnlayoutblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\umbraco\\models\\sectionsettingsblocks.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\umbraco\\models\\sectionsettingsblocks.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\umbraco\\models\\twocolumnlayoutblock.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\umbraco\\models\\twocolumnlayoutblock.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\blockgrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\blockgrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\areas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\areas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\views\\partials\\blockgrid\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\views\\partials\\blockgrid\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|c:\\users\\saaro\\onedrive\\desktop\\new folder\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC1EA4E-6ECC-40E3-A2B5-A9710CE61423}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "headlineBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T18:07:03.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "heroBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:38:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cardBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\cardBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:38:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "callToActionBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\callToActionBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:35:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "imageBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\imageBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:25:10.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inspirationBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\inspirationBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:40:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "oneColumnSectionBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\oneColumnSectionBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:03:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "richTextBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\richTextBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:01:45.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "twoColumnLayoutBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\twoColumnLayoutBlock.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\Components\\twoColumnLayoutBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\Components\\twoColumnLayoutBlock.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\Components\\twoColumnLayoutBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T18:04:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SectionSettingsBlocks.generated.cs",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\umbraco\\models\\SectionSettingsBlocks.generated.cs",
+              "RelativeDocumentMoniker": "Test\\umbraco\\models\\SectionSettingsBlocks.generated.cs",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\umbraco\\models\\SectionSettingsBlocks.generated.cs",
+              "RelativeToolTip": "Test\\umbraco\\models\\SectionSettingsBlocks.generated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:03:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwoColumnLayoutBlock.generated.cs",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\umbraco\\models\\TwoColumnLayoutBlock.generated.cs",
+              "RelativeDocumentMoniker": "Test\\umbraco\\models\\TwoColumnLayoutBlock.generated.cs",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\umbraco\\models\\TwoColumnLayoutBlock.generated.cs",
+              "RelativeToolTip": "Test\\umbraco\\models\\TwoColumnLayoutBlock.generated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:01:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Test\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:54:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlockGrid.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\BlockGrid.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\BlockGrid.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\BlockGrid.cshtml",
+              "RelativeToolTip": "Test\\Views\\BlockGrid.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:55:30.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "areas.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\areas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:54:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "default.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\default.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\default.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\default.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:54:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "items.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\items.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Partials\\blockgrid\\items.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\Views\\Partials\\blockgrid\\items.cshtml",
+              "RelativeToolTip": "Test\\Views\\Partials\\blockgrid\\items.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:54:09.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\New folder\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T16:59:55.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
